@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Arina Maltseva. 👋
 
 <!--
 **ArinaMlt/ArinaMlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png)
+
+Languages and Tools:
+
+
